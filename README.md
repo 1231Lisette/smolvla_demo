@@ -64,11 +64,11 @@ sudo chmod 666 /dev/ttyACM*
 6. **香蕉与胶带共存，抓香蕉，香蕉方向变化** → 10条
 7. **香蕉与胶带共存，抓胶带，香蕉方向变化** → 10条
 
-![](\images\image1.jpg)
+![1](\images\image1.jpg)
 
-![](\images\image2.jpg)
+![2](\images\image2.jpg)
 
-![](\images\image3.jpg)
+![3](\images\image3.jpg)
 
 胶带和香蕉位置固定标记
 
